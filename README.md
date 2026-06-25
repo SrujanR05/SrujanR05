@@ -1,115 +1,101 @@
 <h1 align="center">👋 Hey there! I'm Srujan R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=58A6FF&center=true&vCenter=true&width=1200&lines=💻+Aspiring+Software+Development+Engineer+(SDE);🎓+Computer+Science+Engineering+Student;☕+Java+Developer;🌱+Learning+Spring+Boot+%26+DSA;🚀+Building+Real-World+Software+Solutions;🔥+Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Development+Engineer+(SDE);💻Computer+Science+Engineering+Student;🎓Java+Backend+Developer;☕Full+Stack+Developer;🚀Problem+Solver+%26+Software+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
   Passionate about building real-world software solutions, mastering Java development, and creating scalable applications.
 </p>
 
-<p align="center">
-  <a href="mailto:srujanr0812@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/srujanr0812/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/SrujanR05">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
 ---
 
 # 👨‍💻 About Me
 
-- 💻 Aspiring Software Development Engineer (SDE)
 - 🎓 Computer Science Engineering Student at Garden City University
-- ☕ Focused on Java Development and Backend Engineering
-- 🌱 Currently learning Spring Boot, SQL, and Data Structures & Algorithms
+- 💻 Aspiring Software Development Engineer (SDE)
+- 🌱 Currently learning Java, Spring Boot, SQL, and DSA
 - 🚀 Building Full Stack Web Applications
-- 🧠 Passionate about Problem Solving
-- 🎯 Preparing for Software Engineering Internships and SDE Roles
+- 🧠 Practicing Data Structures & Algorithms
+- 🎯 Preparing for Software Engineering Internships & SDE Roles
 
 ---
 
 # ⚙️ Tech Stack
 
-### 🧩 Programming Languages
+## Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
 </p>
 
-### 🌐 Frontend Development
+## Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend Development
+## Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
+<img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-### 🗄️ Database
+## Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### 🛠️ Tools & Platforms
+## Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 # 🔥 Current Focus
 
-- 🚀 Developing Modern Web Applications
-- ☕ Strengthening Java Fundamentals
+- 🚀 Developing Responsive Web Applications
 - ⚙️ Learning Spring Boot Backend Development
-- 📈 Practicing Data Structures & Algorithms
+- 📈 Improving Problem Solving with DSA
 - 🌲 Working on FRA-ATLAS Project
-- 🎯 Preparing for SDE Internship Interviews
+- 🎯 Preparing for Software Development Engineer (SDE) Interviews
 
 ---
 
 # 📌 Featured Projects
 
-### 🌲 FRA-ATLAS
-Forest Rights Analytics & Land Management System.
+## 🌲 FRA-ATLAS
+Forest Rights Analytics & Land Management System
 
 **Tech Stack:** Java, React, MySQL, REST APIs
 
 ---
 
-### 🌐 Personal Portfolio Website
-Modern responsive portfolio website showcasing skills, certifications, and projects.
+## 🌐 Personal Portfolio Website
+Modern developer portfolio showcasing projects, certifications, and skills.
 
 **Tech Stack:** React, HTML, CSS, JavaScript
 
 ---
 
-### ☕ Java Practice Repository
-Java fundamentals, OOP, Arrays, Strings, Collections, and Problem Solving.
+## ☕ Java Practice Repository
+Java Fundamentals, OOP, Arrays, Strings, Collections, and Problem Solving.
 
 **Tech Stack:** Java
 
 ---
 
-### 📊 DSA in Java
+## 📊 DSA in Java
 Data Structures and Algorithms implementations using Java.
 
 **Tech Stack:** Java
 
 ---
 
-### 🎓 Student Management System
+## 🎓 Student Management System
 CRUD-based application for managing student records.
 
 **Tech Stack:** Java, MySQL
@@ -148,13 +134,13 @@ CRUD-based application for managing student records.
 
 # 🌐 Connect With Me
 
-📧 **Email:** <a href="mailto:srujanr0812@gmail.com">srujanr0812@gmail.com</a>
+📧 Email: <a href="mailto:srujanr0812@gmail.com">srujanr0812@gmail.com</a>
 
-💼 **LinkedIn:** <a href="https://www.linkedin.com/in/srujanr0812/">linkedin.com/in/srujanr0812</a>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/srujanr0812/">linkedin.com/in/srujanr0812</a>
 
-🐙 **GitHub:** <a href="https://github.com/SrujanR05">github.com/SrujanR05</a>
+🐙 GitHub: <a href="https://github.com/SrujanR05">github.com/SrujanR05</a>
 
-📍 **Location:** Bengaluru, Karnataka, India
+📍 Bengaluru, Karnataka, India
 
 ---
 
