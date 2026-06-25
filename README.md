@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Srujan R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Development+Engineer+(SDE);Computer+Science+Engineering+Student;Java+Backend+Developer;Full+Stack+Developer;Problem+Solver+%26+Software+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Development+Engineer+(SDE);Computer+Science+Engineering+Student;Problem+Solver+%26+Software+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
