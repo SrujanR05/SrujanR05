@@ -1,27 +1,11 @@
 <h1 align="center">👋 Hey there! I'm Srujan R</h1>
 
 <p align="center">
-  💻 ☕ 🚀 🎓 🌐
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1500&color=58A6FF&center=true&vCenter=true&width=1200&lines=Aspiring+Software+Development+Engineer+(SDE);Computer+Science+Engineering+Student;Java+Backend+Developer;Full+Stack+Developer;Problem+Solver+and+Software+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1500&color=58A6FF&center=true&vCenter=true&width=1200&lines=💻+Aspiring+Software+Development+Engineer+(SDE);🎓+Computer+Science+Engineering+Student;☕+Java+Backend+Developer;🌐+Full+Stack+Developer;🚀+Problem+Solver+%26+Software+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
   Passionate about building real-world software solutions, mastering Java development, and creating scalable applications.
-</p>
-
-<p align="center">
-  <a href="mailto:srujanr0812@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/srujanr0812/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/SrujanR05">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
 </p>
 
 ---
