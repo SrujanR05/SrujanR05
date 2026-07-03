@@ -61,44 +61,24 @@
 - ⚙️ Learning Spring Boot Backend Development
 - 📈 Improving Problem Solving with DSA
 - 🌲 Working on FRA-ATLAS Project
+- 🏥 Building Smart Hospital Management System
 - 🎯 Preparing for Software Development Engineer (SDE) Interviews
 
 ---
 
 # 📌 Featured Projects
 
+## 🏥 Smart Hospital Management System
+Enterprise-grade Hospital Management System with JWT Authentication, role-based access control, appointment scheduling, billing, laboratory management, QR code generation, AI symptom checker, and analytics dashboard.
+
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, Maven, REST APIs
+
+---
+
 ## 🌲 FRA-ATLAS
-Forest Rights Analytics & Land Management System
+Forest Rights Analytics & Land Management System for digitizing forest rights, land claims, and beneficiary management with secure REST APIs and analytics.
 
 **Tech Stack:** Java, React, MySQL, REST APIs
-
----
-
-## 🌐 Personal Portfolio Website
-Modern developer portfolio showcasing projects, certifications, and skills.
-
-**Tech Stack:** React, HTML, CSS, JavaScript
-
----
-
-## ☕ Java Practice Repository
-Java Fundamentals, OOP, Arrays, Strings, Collections, and Problem Solving.
-
-**Tech Stack:** Java
-
----
-
-## 📊 DSA in Java
-Data Structures and Algorithms implementations using Java.
-
-**Tech Stack:** Java
-
----
-
-## 🎓 Student Management System
-CRUD-based application for managing student records.
-
-**Tech Stack:** Java, MySQL
 
 ---
 
